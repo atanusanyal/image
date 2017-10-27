@@ -1,0 +1,17 @@
+{
+    "wallpapers": --> different array name
+        [
+	    {
+		"author": "Taken from gadgetraid",
+		"url": "https://raw.githubusercontent.com/atanusanyal/image/master/wall2.png",
+		"name": "Nougat Wallpaper 1"
+                --> no thumbUrl
+	    },
+	    {
+                "author": "Taken from gadgetraid",
+		"url": "https://raw.githubusercontent.com/atanusanyal/image/master/eight%20(1).jpeg",
+		"name": "Nougat Wallpaper 2"
+                --> no thumbUrl
+	    }
+        ]
+}
