@@ -1,45 +1,32 @@
-{
-	"Wallpapers": 
-	[
-		{
-			"name": "Eight_Wall_1",
-			"author": "Atanu Sanyal",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-			"dimensions": "4320 x 2560",
-			"copyright": "Copyright  2017 Atanu Sanyal. All rights reserved."
-		}
-		
-		{
-			"name": "Eight_Wall_2",
-			"author": "Atanu Sanyal",
-			"url": "https://raw.githubusercontent.com/atanusanyal/image/master/eight%20(1).jpeg",
-			"dimensions": "4320 x 2560",
-			"copyright": "Copyright  2017 Atanu Sanyal. All rights reserved."
-		}
-		
-		{
-			"name": "Eight_Wall_3",
-			"author": "Atanu Sanyal",
-			"url": "https://raw.githubusercontent.com/atanusanyal/image/master/wall2.png",
-			"dimensions": "4320 x 2560",
-			"copyright": "Copyright  2017 Atanu Sanyal. All rights reserved."
-		}
-		
-		{
-			"name": "Eight_Wall_4",
-			"author": "Atanu Sanyal",
-			"url": "",
-			"dimensions": "4320 x 2560",
-			"copyright": "Copyright  2017 Atanu Sanyal. All rights reserved."
-		}
-		
-		{
-			"name": "Eight_Wall_5",
-			"author": "Atanu Sanyal",
-			"url": "",
-			"dimensions": "4320 x 2560",
-			"copyright": "Copyright  2017 Atanu Sanyal. All rights reserved."
-		}
-		
-	]
-}
+"Wallpapers":
+        [
+			{
+				"author": "Sweet Ice Cream Photography",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+				"name": "Ceningan island, Indonesia",
+                "category": "people"
+			},
+            {
+				"author": "Samuel Zeller",
+				"url": "https://unsplash.it/4835/3223?image=1076",
+				"thumbUrl": "https://unsplash.it/400/200?image=1076",
+				"name": "London",
+                "category": "architecture"
+			},
+            {
+				"author": "Kevin Young",
+				"url": "https://unsplash.it/4835/3223?image=1067",
+				"thumbUrl": "https://unsplash.it/400?image=1067",
+				"name": "City 1067",
+                "category": "architecture,city"
+			},
+            
+            {
+				"author": "Erez Attias",
+				"url": "https://unsplash.it/4835/3223?image=1033",
+				"thumbUrl": "https://unsplash.it/400/200?image=1033",
+				"name": "Zurich Airport",
+                "category": "architecture"
+			}
+		]
